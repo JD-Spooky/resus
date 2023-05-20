@@ -13,7 +13,7 @@ const App = () => {
   const [ pageType, setPageType ] = useState(PageTypes.HOME);
   return (
     <div className="App">
-      <PageLayout>
+      <PageLayout pageType={pageType} setPageType={setPageType}>
       {
         pageType === PageTypes.HOME && <Home setPageType={setPageType} setCategory={setCategory} />
       }
