@@ -28,7 +28,7 @@ const Category = ({selectedCategory, setPageType, setContent}) => {
         <div className='m-3'>
         <Row>
         { catData && catData.categories.map((item) => (
-            <Col xs="2">
+            <Col className="mb-2" xs="12" md="3">
                 <Card style={{cursor:'pointer'}} key={item.name} onClick={() => selectContent(item.name)}>
                     <Card.Body className="text-center">
                         <b>{item.name}</b>
