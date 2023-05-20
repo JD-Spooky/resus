@@ -5,6 +5,7 @@ import PageTypes from './constants/PageTypes';
 import Home from './pages/Home';
 import Category from './pages/Category';
 import Content from './pages/Content';
+import PageLayout from './components/PageLayout';
 
 const App = () => {
   const [ selectedCategory, setCategory ] = useState(false);
@@ -12,6 +13,7 @@ const App = () => {
   const [ pageType, setPageType ] = useState(PageTypes.HOME);
   return (
     <div className="App">
+      <PageLayout>
       {
         pageType === PageTypes.HOME && <Home setPageType={setPageType} setCategory={setCategory} />
       }
@@ -21,6 +23,7 @@ const App = () => {
       {
         pageType === PageTypes.CONTENT && <Content selectedCategory={selectedCategory} selectedContent={selectedContent} setPageType={setPageType} setContent={setContent}/>
       }
+      </PageLayout>
     </div>
   );
 }
