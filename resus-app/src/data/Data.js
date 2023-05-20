@@ -3,7 +3,10 @@ import rescuscitationGuideImg from '../img/resus.png';
 import allGuidelinesImg from '../img/all_guidelines.png';
 import medicalImg from '../img/medical.png';
 import traumaImg from '../img/trauma.png';
-
+import picuDrugImg from '../img/picu_drug_sheet.png';
+import medusaImg from '../img/medusa.png';
+import emergencyContactsImg from '../img/emergency_contacts.png';
+import distractionImg from '../img/distraction.png';
 
 const Data = [
     {
@@ -317,6 +320,7 @@ const Data = [
     },
     {
         name: 'PICU drug sheet',
+        image: picuDrugImg,
         categories: [
             {
                 name: 'cat1',
@@ -334,10 +338,12 @@ const Data = [
     },
     {
         name: 'Medusa',
+        image: medusaImg,
         url: 'https://injmed.wales.nhs.uk/?ID=7cb63917dffc246335eccf68158f57ee977'
     },
     {
         name: 'Emergency contacts',
+        image: emergencyContactsImg,
         categories: [
             {
                 name: 'cat1',
@@ -355,6 +361,7 @@ const Data = [
     },
     {
         name: 'Distraction',
+        image: distractionImg,
         url: 'https://www.youtube.com/watch?v=i0sBOAN8t5Y&ab_channel=TheScottishPeppapig'
     },
 ];
