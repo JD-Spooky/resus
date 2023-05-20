@@ -6,7 +6,7 @@ import Home from './pages/Home';
 import Category from './pages/Category';
 import Content from './pages/Content';
 import PageLayout from './components/PageLayout';
-import AllContent from './pages/allContent';
+import AllContent from './pages/AllContent';
 
 const App = () => {
   const [ selectedCategory, setCategory ] = useState(false);

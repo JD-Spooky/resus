@@ -1,7 +1,7 @@
 import React from 'react';
 import PageTypes from '../constants/PageTypes';
 import Data from '../data/Data';
-import { Card, Row, Col } from 'react-bootstrap';
+import { Button, Card, Row, Col } from 'react-bootstrap';
 
 const Home = ({ setPageType, setCategory }) => {
 

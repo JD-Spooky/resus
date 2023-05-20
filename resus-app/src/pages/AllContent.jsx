@@ -1,9 +1,10 @@
 import React, { useEffect } from "react";
 import { useState } from "react";
+import { Card } from "react-bootstrap";
 import Data from "../data/Data";
 import PageTypes from "../constants/PageTypes";
 
-const AllContent = ({ setContent }) => {
+const AllContent = ({ setContent, setPageType }) => {
     const [parsedData, setParsedData] = useState(false);
     
     useEffect(() => {

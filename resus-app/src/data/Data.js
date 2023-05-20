@@ -1,9 +1,14 @@
 import testMD from './content/test.md';
-import rescuscitationGuideImg from '../img/pexels-karolina-grabowska-4386467.jpg';
+import rescuscitationGuideImg from '../img/resus.png';
+import allGuidelinesImg from '../img/all_guidelines.png';
+import medicalImg from '../img/medical.png';
+import traumaImg from '../img/trauma.png';
+
 
 const Data = [
     {
         name: 'Guidelines',
+        image: allGuidelinesImg,
         categories: [
             {
                 name: 'Anaphylaxis',
@@ -202,6 +207,7 @@ const Data = [
     },
     {
         name: 'Medical emergencies',
+        image: medicalImg,
         categories: [
             {
                 name: 'Anaphylaxis',
@@ -257,6 +263,7 @@ const Data = [
     },
     {
         name: 'Trauma',
+        image: traumaImg,
         categories: [
             {
                 name: 'Burns',
