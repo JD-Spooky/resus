@@ -53,4 +53,3 @@ Theatre for definitive management
 
 --- 
 eResus v2.0 based on [Resuscitative thoracotomy v1.1](http://workspaces/sites/Teams/ChildrensEmergencyDepartment/guidelines/BCH_guidelines/1/index.html#19455)
-

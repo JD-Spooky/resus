@@ -1,5 +1,5 @@
 
-import logo from '../img/logo.jpg';
+import logo from '../img/logo.png';
 import { Button } from 'react-bootstrap';
 import PageTypes from '../constants/PageTypes';
 
