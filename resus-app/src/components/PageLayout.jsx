@@ -13,10 +13,10 @@ return(
             <Col>
                 <Col xs="6">
                     {pageType !== PageTypes.HOME && 
-                    <>
+                    <div className="p-3">
                         <Button variant="primary" onClick={() => goHome()}><h2>Home</h2></Button>
                         <Button variant="primary" onClick={() => goBack()}><h2>Back</h2></Button>
-                    </>
+                    </div>
                     }
                 </Col>
             </Col>

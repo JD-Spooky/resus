@@ -16,7 +16,7 @@ const App = () => {
     <div className="App">
       <PageLayout pageType={pageType} setPageType={setPageType}>
       {
-        pageType === PageTypes.ALL_CONTENT && <AllContent setPageType={setPageType} setCategory={setCategory} />
+        pageType === PageTypes.ALL_CONTENT && <AllContent setPageType={setPageType} setContent={setContent} setCategory={setCategory} />
       }
       {
         pageType === PageTypes.HOME && <Home setPageType={setPageType} setCategory={setCategory} />

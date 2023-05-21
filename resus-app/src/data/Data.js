@@ -323,15 +323,15 @@ const Data = [
         image: picuDrugImg,
         categories: [
             {
-                name: 'cat1',
+                name: 'Cat1',
                 content: testMD
             },
             {
-                name: 'cat2',
+                name: 'Cat2',
                 content: testMD
             },
             {
-                name: 'cat3',
+                name: 'Cat3',
                 content: testMD
             }
         ]
@@ -346,15 +346,15 @@ const Data = [
         image: emergencyContactsImg,
         categories: [
             {
-                name: 'cat1',
+                name: 'Cat1',
                 content: testMD
             },
             {
-                name: 'cat2',
+                name: 'Cat2',
                 content: testMD
             },
             {
-                name: 'cat3',
+                name: 'Cat3',
                 content: testMD
             }
         ]

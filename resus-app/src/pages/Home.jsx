@@ -24,7 +24,7 @@ const Home = ({ setPageType, setCategory }) => {
             <Button onClick={() => selectAllContent()} type="button" variant="primary"><h4>A - Z</h4></Button>
             <Row className="p-5">
             {Data.map((cat) => (
-                <Col className="p-0 mb-4" xs="4" md="3">
+                <Col key={cat.name} className="p-0 mb-4" xs="4" md="3">
                 <Card onClick={() => selectCategory(cat.name, cat.url)} key={cat.name} style={{ cursor:'pointer', width: '18rem' }}>
                     <Card.Img className="responsive-img" variant="top" src={cat.image} />
                     <Card.Body>
