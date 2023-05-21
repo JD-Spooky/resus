@@ -171,7 +171,7 @@ const Data = [
             },
             {
                 name: 'Anaphylaxis',
-                content: 'inProgress.md'
+                content: 'anaphylaxis.md'
             },
             {
                 name: 'Difficult airway guidelines',
