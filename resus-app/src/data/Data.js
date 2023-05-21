@@ -179,7 +179,7 @@ const Data = [
             },
             {
                 name: 'Neo-natal Life Support (NLS)',
-                content: 'nls.mds'
+                content: 'nls.md'
             },
             {
                 name: 'Resus calculations',
