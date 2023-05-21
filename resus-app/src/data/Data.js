@@ -175,23 +175,15 @@ const Data = [
             },
             {
                 name: 'Difficult airway guidelines',
-                content: 'inProgress.md'
-            },
-            {
-                name: 'Extra-corpal CPR (ECPR)',
-                content: 'inProgress.md'
+                content: 'difficultAirway.md'
             },
             {
                 name: 'Neo-natal Life Support (NLS)',
-                content: 'inProgress.md'
-            },
-            {
-                name: 'PICU drug sheet',
-                content: 'inProgress.md'
+                content: 'nls.mds'
             },
             {
                 name: 'Resus calculations',
-                content: 'inProgress.md'
+                content: 'drugDoses.md'
             },
             {
                 name: 'Resuscitative thoracotomy in trauma',
@@ -199,11 +191,11 @@ const Data = [
             },
             {
                 name: 'RSI checklist',
-                content: 'inProgress.md'
+                content: 'rsiChecklist.md'
             },
             {
                 name: 'WHO procedure checklist',
-                content: 'inProgress.md'
+                content: 'whoProceedureChecklist.md'
             }
         ]
     },
