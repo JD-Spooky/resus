@@ -1,0 +1,1731 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg28543"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="nls.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview28545"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.74118967"
+     inkscape:cx="397.33419"
+     inkscape:cy="273.20942"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs28540">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27400">
+      <path
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         id="path27398" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27462">
+      <path
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         id="path27460" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27482">
+      <path
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         id="path27480" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27534">
+      <path
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         id="path27532" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27574">
+      <path
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         id="path27572" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27590">
+      <path
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         id="path27588" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27654">
+      <path
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         id="path27652" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27778">
+      <path
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         id="path27776" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27822">
+      <path
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         id="path27820" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27978">
+      <path
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         id="path27976" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,575.1604,575.1604,0,500.20729,90.981323)"
+       spreadMethod="pad"
+       id="linearGradient28076">
+      <stop
+         style="stop-opacity:1;stop-color:#f8c6bc"
+         offset="0"
+         id="stop28068" />
+      <stop
+         style="stop-opacity:1;stop-color:#f8c6bc"
+         offset="0"
+         id="stop28070" />
+      <stop
+         style="stop-opacity:1;stop-color:#cdd3d7"
+         offset="0.684818"
+         id="stop28072" />
+      <stop
+         style="stop-opacity:1;stop-color:#769dc0"
+         offset="1"
+         id="stop28074" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,575.1604,575.1604,0,111.35825,76.37236)"
+       spreadMethod="pad"
+       id="linearGradient28108">
+      <stop
+         style="stop-opacity:1;stop-color:#f4ef92"
+         offset="0"
+         id="stop28096" />
+      <stop
+         style="stop-opacity:1;stop-color:#f4ef92"
+         offset="0"
+         id="stop28098" />
+      <stop
+         style="stop-opacity:1;stop-color:#e8f3fb"
+         offset="0.33861968"
+         id="stop28100" />
+      <stop
+         style="stop-opacity:1;stop-color:#e8f3fb"
+         offset="0.601182"
+         id="stop28102" />
+      <stop
+         style="stop-opacity:1;stop-color:#e8f3fb"
+         offset="0.63069565"
+         id="stop28104" />
+      <stop
+         style="stop-opacity:1;stop-color:#e8f3fb"
+         offset="1"
+         id="stop28106" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g27358"
+       transform="matrix(0.35277777,0,0,-0.35277777,182.66088,237.86935)">
+      <path
+         d="M 0,0 17.131,-9.861"
+         style="fill:none;stroke:#800939;stroke-width:0.709;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 2.081;stroke-dashoffset:0;stroke-opacity:1"
+         id="path27360" />
+    </g>
+    <g
+       id="g27362"
+       transform="matrix(0.35277777,0,0,-0.35277777,189.68003,241.19551)">
+      <path
+         d="M 0,0 19.572,9.991"
+         style="fill:none;stroke:#800939;stroke-width:0.709;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 2.093;stroke-dashoffset:0;stroke-opacity:1"
+         id="path27364" />
+    </g>
+    <g
+       id="g27366"
+       transform="matrix(0.35277777,0,0,-0.35277777,196.91346,236.7527)">
+      <path
+         d="M 0,0 V 560.552"
+         style="fill:none;stroke:#800939;stroke-width:0.709;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 2.127;stroke-dashoffset:0;stroke-opacity:1"
+         id="path27368" />
+    </g>
+    <g
+       id="g27370"
+       transform="matrix(0.35277777,0,0,-0.35277777,196.16903,38.627383)">
+      <path
+         d="M 0,0 H -39.039"
+         style="fill:none;stroke:#800939;stroke-width:0.709;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 2.11;stroke-dashoffset:0;stroke-opacity:1"
+         id="path27372" />
+    </g>
+    <g
+       id="g27374"
+       transform="matrix(0.35277777,0,0,-0.35277777,182.02476,39.377847)">
+      <path
+         d="M 0,0 V -560.552"
+         style="fill:none;stroke:#800939;stroke-width:0.709;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 2.127;stroke-dashoffset:0;stroke-opacity:1"
+         id="path27376" />
+    </g>
+    <text
+       transform="rotate(90)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88197px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27384"
+       x="43.478748"
+       y="-188.41074"><tspan
+         x="43.478748 45.754356 48.075771 49.007442 51.586624 53.620773 55.693745 56.625416 58.909954 59.958473 63.240288 65.564812 67.816353 68.748024 71.399796 73.602806"
+         y="-188.41074"
+         sodipodi:role="line"
+         id="tspan27382"
+         style="stroke-width:0.352778">AT ALL TIMES ASK</tspan></text>
+    <text
+       transform="rotate(90)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88197px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27388"
+       x="77.107628"
+       y="-188.41074"><tspan
+         x="77.107628 79.012512 80.184471 82.467072 83.398743 86.403389 88.728683 90.772926 93.2108 94.142471 97.147118 99.472412 101.79771 104.62805 106.95335 109.78952"
+         y="-188.41074"
+         sodipodi:role="line"
+         id="tspan27386"
+         style="stroke-width:0.352778">“IS HELP NEEDED”</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.81944px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27392"
+       x="62.252468"
+       y="16.304207"><tspan
+         x="62.252468 69.055794 73.768028 80.684235 85.973251 91.238464 94.701859 100.00234 102.11901 104.7913 106.95824 110.2179 115.07742 117.19408 121.24221 126.49947 131.78056 137.06958 142.33479 145.99133 149.6514"
+         y="16.304207"
+         sodipodi:role="line"
+         id="tspan27390"
+         style="stroke-width:0.352778">Newborn life support</tspan></text>
+    <g
+       id="g27394"
+       transform="matrix(0.35277777,0,0,-0.35277777,1.0418219,273.25236)">
+      <g
+         id="g27396"
+         clip-path="url(#clipPath27400)">
+        <g
+           id="g27402"
+           transform="translate(50.0466,632.7097)">
+          <path
+             d="m 0,0 v -172.482 c 0,-4.695 4.007,-8.502 8.949,-8.502 h 82.475 c 4.943,0 8.949,3.807 8.949,8.502 V 0 Z"
+             style="fill:#fcd7cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path27404" />
+        </g>
+      </g>
+    </g>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27408"
+       x="24.961468"
+       y="57.89381"><tspan
+         x="24.961468 26.856289 27.833828 29.513653 31.033642 32.685879 33.405544 35.245495 37.096844 38.936794 40.167721 40.976742 42.693142 44.495312 45.214977 46.027905 47.830074"
+         y="57.89381"
+         sodipodi:role="line"
+         id="tspan27406"
+         style="stroke-width:0.352778">Place undried in</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27412"
+       x="26.470959"
+       y="61.06881"><tspan
+         x="26.470959 28.313915 29.291454 31.024349 32.448391 33.706005 34.515041 36.014339 36.734005 39.138897 40.371319 42.071529 43.873699 44.593365 46.320568"
+         y="61.06881"
+         sodipodi:role="line"
+         id="tspan27410"
+         style="stroke-width:0.352778">plastic wrap +</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27416"
+       x="27.654629"
+       y="64.243813"><tspan
+         x="27.654629 28.887066 30.575283 32.415234 33.224255 34.924465 36.742519 37.98695 38.706615 40.557949 42.246166 43.891506"
+         y="64.243813"
+         sodipodi:role="line"
+         id="tspan27414"
+         style="stroke-width:0.352778">radiant heat</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27420"
+       x="25.005108"
+       y="84.11882"><tspan
+         x="25.005108 25.935863 27.787212 29.219646 31.063793 31.87672 33.089352 34.805767 36.607922 37.327587 39.120159 40.836269 42.431225 44.275372 45.983082"
+         y="84.11882"
+         sodipodi:role="line"
+         id="tspan27418"
+         style="stroke-width:0.352778">Inspired oxygen</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27424"
+       x="21.856655"
+       y="87.793808"><tspan
+         x="21.856655 23.534679 25.385128 26.773479 28.395428 30.122326 30.842007 33.153622 34.819363 36.469799 38.058758 39.405132 40.124798 41.750942 43.44006 44.828426 46.572414 48.345791"
+         y="87.793808"
+         sodipodi:role="line"
+         id="tspan27422"
+         style="stroke-width:0.352778">28–31 weeks 21–30%</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27428"
+       x="25.414608"
+       y="90.968811"><tspan
+         x="25.414608 27.141796 27.861462 29.539486 31.266689 31.986355 34.29768 35.963421 37.613857 39.202816 40.549191 41.268856 43.012844 44.786236"
+         y="90.968811"
+         sodipodi:role="line"
+         id="tspan27426"
+         style="stroke-width:0.352778">&lt; 28 weeks 30%</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27432"
+       x="23.636608"
+       y="104.9938"><tspan
+         x="23.636608 24.477413 25.583904 26.30357 28.076046 28.807705 30.389767 31.121441 32.911007 34.659191 35.378857 36.110531 37.860516 39.023968 39.938244 41.533215 42.747356 43.482006 45.26379 47.032963 48.416821 49.157482"
+         y="104.9938"
+         sodipodi:role="line"
+         id="tspan27430"
+         style="stroke-width:0.352778">If giving inflations,</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27436"
+       x="21.975948"
+       y="108.16881"><tspan
+         x="21.975948 23.368191 24.602123 26.25526 27.508678 28.711117 29.430782 31.772106 32.500164 33.714306 35.46249 36.182156 37.877575 39.604778 40.324444 41.812649 44.526394 45.246059"
+         y="108.16881"
+         sodipodi:role="line"
+         id="tspan27434"
+         style="stroke-width:0.352778">start with 25 cm H</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.74819px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27440"
+       x="47.511333"
+       y="109.16734"><tspan
+         x="47.511333"
+         y="109.16734"
+         id="tspan27438"
+         style="stroke-width:0.352778">2</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27444"
+       x="48.515652"
+       y="108.16881"><tspan
+         x="48.515652"
+         y="108.16881"
+         id="tspan27442"
+         style="stroke-width:0.352778">O</tspan></text>
+    <path
+       d="M 64.106492,77.842054 H 147.80055 V 67.842216 H 64.106492 Z"
+       style="fill:#0b4476;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="path27446" />
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27450"
+       x="101.21332"
+       y="72.060204"><tspan
+         x="101.21332 103.33904 104.76038 106.18172 107.88523 109.30657 110.69492"
+         y="72.060204"
+         sodipodi:role="line"
+         id="tspan27448"
+         style="stroke-width:0.352778">Assess</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27454"
+       x="82.40049"
+       y="75.735229"><tspan
+         x="82.40049 84.327103 86.10408 86.96048 88.744057 90.513832 91.479088 92.219742 92.939415 94.115166 95.896942 97.686516 99.309959 100.05062 100.77029 102.55626 103.70232 105.33957 106.93483 108.14896 109.92204 110.6528 112.44238 114.22235 114.96301 115.68268 117.47224 119.10979 120.76292 122.01604 123.21848 123.93815 125.1238 126.71906 127.89661"
+         y="75.735229"
+         sodipodi:role="line"
+         id="tspan27452"
+         style="stroke-width:0.352778">Colour, tone, breathing, heart rate</tspan></text>
+    <g
+       id="g27456"
+       transform="matrix(0.35277777,0,0,-0.35277777,1.0418219,273.25236)">
+      <g
+         id="g27458"
+         clip-path="url(#clipPath27462)">
+        <g
+           id="g27464"
+           transform="translate(186.9471,621.95)">
+          <path
+             d="m 0,0 c -4.518,0 -8.181,-3.663 -8.181,-8.181 v -11.985 c 0,-4.518 3.663,-8.18 8.181,-8.18 h 220.881 c 4.518,0 8.181,3.662 8.181,8.18 v 11.985 c 0,4.518 -3.663,8.181 -8.181,8.181 z"
+             style="fill:#cbd5e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path27466" />
+        </g>
+      </g>
+    </g>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27470"
+       x="90.375038"
+       y="58.060215"><tspan
+         x="90.375038 92.055153 93.289085 94.942223 96.195641 97.398079 98.117744 99.606262 100.46266 102.25523 103.74374 105.27003 105.9897 107.14117 107.86083 109.65011 111.3929 112.57045 114.18071 114.90038 116.11451 116.84528 119.60339"
+         y="58.060215"
+         sodipodi:role="line"
+         id="tspan27468"
+         style="stroke-width:0.352778">Start clock / note time</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27474"
+       x="81.824799"
+       y="61.735207"><tspan
+         x="81.824799 84.071358 85.381447 86.991699 88.431038 89.582504 90.30217 92.707352 93.939781 95.639999 97.455055 98.249687 98.969353 100.39339 101.65101 102.46394 105.27274 107.11148 108.08903 109.73437 110.9707 112.65292 113.44755 114.16721 115.73518 117.44529 119.153 120.95517 121.67484 124.07703 125.77724 127.00787"
+         y="61.735207"
+         sodipodi:role="line"
+         id="tspan27472"
+         style="stroke-width:0.352778">Dry / wrap, stimulate, keep warm</tspan></text>
+    <g
+       id="g27476"
+       transform="matrix(0.35277777,0,0,-0.35277777,1.0418219,273.25236)">
+      <g
+         id="g27478"
+         clip-path="url(#clipPath27482)">
+        <g
+           id="g27484"
+           transform="translate(186.9472,247.9316)">
+          <path
+             d="m 0,0 c -4.518,0 -8.181,-3.663 -8.181,-8.181 v -51.582 c 0,-4.518 3.663,-8.181 8.181,-8.181 h 220.881 c 4.518,0 8.181,3.663 8.181,8.181 v 51.582 c 0,4.518 -3.663,8.181 -8.181,8.181 z"
+             style="fill:#fcfadd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path27486" />
+        </g>
+      </g>
+    </g>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27490"
+       x="75.807358"
+       y="190.14008"><tspan
+         x="75.807358 76.723434 77.871902 78.591568 80.442909 82.132027 83.832245 85.123741 86.368164 87.087837 88.320259 89.965599 91.201927 92.854164 93.57383 94.38855 95.776909 96.496574 98.342819 100.15818 101.4026 102.12227 103.96732 105.65253 106.88886 108.59897 110.18463 111.45754 113.15775 115.0007 115.93297 117.58521 118.30487 120.14782 121.35027 122.06993 123.79713 124.5168 126.30876 128.03596 128.75563 131.55814 132.37105"
+         y="190.14008"
+         sodipodi:role="line"
+         id="tspan27488"
+         style="stroke-width:0.352778">If heart rate is not detectable or &lt; 60 min</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.74819px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27494"
+       x="134.28256"
+       y="189.14154"><tspan
+         x="134.28256 134.7738"
+         y="189.14154"
+         sodipodi:role="line"
+         id="tspan27492"
+         style="stroke-width:0.352778">-1</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27498"
+       x="84.076996"
+       y="193.31508"><tspan
+         x="84.076996 85.729233 86.955666 88.191994 89.899704 91.102142 91.821808 93.5718 95.299004 96.018669 97.439713 99.149818 100.66112 102.50407 104.35541 106.20465 107.59301 108.31267 110.12803 111.2765 111.99616 113.58693 115.29464 117.11269 118.37001 119.17634 120.15388 121.79922 123.05684 123.86587 125.70882 127.51098"
+         y="193.31508"
+         sodipodi:role="line"
+         id="tspan27496"
+         style="stroke-width:0.352778">after 30 seconds of ventilation</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27502"
+       x="66.106636"
+       y="196.99007"><tspan
+         x="66.106636 67.545967"
+         y="196.99007"
+         sodipodi:role="line"
+         id="tspan27500"
+         style="stroke-width:0.352778">•</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27506"
+       x="69.106628"
+       y="196.99007"><tspan
+         x="69.106628 70.779854 72.361916 74.151489 75.638802 77.417572 78.559448 80.341225 82.113998 82.836662 84.211533 85.821785 86.541451 88.268646 88.988319 90.475624 92.265198 93.912636 95.304893 96.507332 97.227005 98.678627 100.4604 103.20773 104.99371 106.13977 107.78721 109.14828 110.50665 111.2413 113.02308 114.79106 116.13744 116.8571 118.03316 119.78135 120.50102 122.22822 122.94788 124.48497 126.13541 127.8854 129.09984 129.82249 130.73677 132.33203 133.54648 134.28113 136.06261"
+         y="196.99007"
+         sodipodi:role="line"
+         id="tspan27504"
+         style="stroke-width:0.352778">Synchronise 3 chest compressions to 1 ventilation</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27510"
+       x="66.106636"
+       y="200.6651"><tspan
+         x="66.106636 67.545967"
+         y="200.6651"
+         sodipodi:role="line"
+         id="tspan27508"
+         style="stroke-width:0.352778">•</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27514"
+       x="69.106628"
+       y="200.6651"><tspan
+         x="69.106628 69.960327 71.749908 73.238419 74.384483 76.022018 77.723137 79.098 80.708252 81.427917 83.148819 84.794456 86.334244 88.117516 89.767952 91.516144 92.235809 93.411568 95.15976 95.879425 97.521767 99.350616 101.12399"
+         y="200.6651"
+         sodipodi:role="line"
+         id="tspan27512"
+         style="stroke-width:0.352778">Increase oxygen to 100%</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27518"
+       x="66.106636"
+       y="204.34009"><tspan
+         x="66.106636 67.545967"
+         y="204.34009"
+         sodipodi:role="line"
+         id="tspan27516"
+         style="stroke-width:0.352778">•</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27522"
+       x="69.106628"
+       y="204.34009"><tspan
+         x="69.106628 71.033234 72.815002 74.582993 75.942558 76.683212 78.466492 80.116623 81.265091 81.984764 82.715523 84.465508 85.675453 87.445229 89.227905 90.823166 92.037308 92.771965 94.553741 96.301926 97.021599 97.749359 98.855843 99.575516 101.36508 103.10788 104.31032 105.02998 106.67052 107.56531 108.71108 110.34862 111.98106 113.75504 115.31133 116.03099 117.81426 119.59604 121.3856 122.99586 123.71553 125.49701 126.64547 127.36514 128.27942 129.93256 131.19017 132.77223 134.5618 136.34508 137.98262 139.62286 140.47746"
+         y="204.34009"
+         sodipodi:role="line"
+         id="tspan27520"
+         style="stroke-width:0.352778">Consider intubation if not already done or laryngeal</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27526"
+       x="69.106628"
+       y="207.51509"><tspan
+         x="69.106628 71.849159 73.550262 74.913734 76.440025 77.159698 77.887459 78.993942 79.713615 81.503181 83.245979 84.448418 85.168083 86.966949 88.738235 90.099304 91.45887 92.189331 93.971107 94.825714"
+         y="207.51509"
+         sodipodi:role="line"
+         id="tspan27524"
+         style="stroke-width:0.352778">mask if not possible</tspan></text>
+    <g
+       id="g27528"
+       transform="matrix(0.35277777,0,0,-0.35277777,1.0418219,273.25236)">
+      <g
+         id="g27530"
+         clip-path="url(#clipPath27534)">
+        <g
+           id="g27536"
+           transform="translate(186.9472,128.9644)">
+          <path
+             d="m 0,0 c -4.518,0 -8.181,-3.663 -8.181,-8.181 v -36.23 c 0,-4.518 3.663,-8.181 8.181,-8.181 h 220.881 c 4.518,0 8.181,3.663 8.181,8.181 v 36.23 c 0,4.518 -3.663,8.181 -8.181,8.181 z"
+             style="fill:#fcfadd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path27538" />
+        </g>
+      </g>
+    </g>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27542"
+       x="68.434448"
+       y="232.82632"><tspan
+         x="68.434448 69.350525 70.498993 71.218658 72.476273 74.327614 75.979851 76.699516 78.55056 80.239677 81.939888 83.231689 84.476112 85.195786 86.428207 88.073547 89.309875 90.962112 91.681778 92.894119 94.601822 97.401031 99.097046 99.909966 101.76131 103.14967 103.86933 105.71587 107.53123 108.77566 109.49532 111.34037 113.02559 114.26161 115.97173 117.55739 118.8303 120.53052 122.37346 123.30573 124.95796 125.67763 127.52058 128.72302 129.44269 131.16989 131.88956 133.68182 135.40903 136.12869 138.93089 139.7438"
+         y="232.82632"
+         sodipodi:role="line"
+         id="tspan27540"
+         style="stroke-width:0.352778">If the heart rate remains not detectable or &lt; 60 min</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.74819px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27546"
+       x="141.65544"
+       y="231.82779"><tspan
+         x="141.65544 142.14668"
+         y="231.82779"
+         sodipodi:role="line"
+         id="tspan27544"
+         style="stroke-width:0.352778">-1</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27550"
+       x="66.106636"
+       y="236.50133"><tspan
+         x="66.106636 67.545967"
+         y="236.50133"
+         sodipodi:role="line"
+         id="tspan27548"
+         style="stroke-width:0.352778">•</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27554"
+       x="69.106628"
+       y="236.50133"><tspan
+         x="69.106628 71.086906 72.819809 74.240845 75.777039 77.615784 78.593033 80.293243 81.495689 82.215355 83.895172 85.415169 86.935165 88.63868 90.059723 91.447777 92.167442 93.867653 95.717796 97.519966 98.239632 100.07957 101.32191 103.17204 105.02219"
+         y="236.50133"
+         sodipodi:role="line"
+         id="tspan27552"
+         style="stroke-width:0.352778">Vascular access and drugs</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27558"
+       x="66.106636"
+       y="240.17632"><tspan
+         x="66.106636 67.545967"
+         y="240.17632"
+         sodipodi:role="line"
+         id="tspan27556"
+         style="stroke-width:0.352778">•</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27562"
+       x="69.106628"
+       y="240.17632"><tspan
+         x="69.106628 71.033234 72.815002 74.582993 75.942558 76.683212 78.466492 80.116623 81.265091 81.984764 83.727554 84.941689 86.731262 88.381699 89.530167 90.249832 91.383606 93.015755 94.579231 95.75528 97.537056 98.735298 100.08168 100.80135 102.42659 103.15495 104.93343 105.67409 106.39375 108.17943 109.96899 111.62033 113.39011 116.14823 117.89103 119.10516 120.89474 122.67651 123.86216 125.59146 127.18192 127.92258"
+         y="240.17632"
+         sodipodi:role="line"
+         id="tspan27560"
+         style="stroke-width:0.352778">Consider other factors e.g. pneumothorax,</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27566"
+       x="69.106628"
+       y="243.35132"><tspan
+         x="69.106628 70.828423 72.410492 74.209358 75.935661 77.471252 79.249428 80.163704 81.79615 83.446587 86.18821 86.910576 88.593697 89.334358 90.054024 91.505951 93.287727 95.077293 96.860268 98.510704 100.28378 101.01185 102.24428 103.88451 104.73912 105.45879 107.11192 108.91079 110.69256 111.87102 114.61475 116.25498 117.14947 117.87753 119.15524"
+         y="243.35132"
+         sodipodi:role="line"
+         id="tspan27564"
+         style="stroke-width:0.352778">hypovolaemia, congenital abormality</tspan></text>
+    <g
+       id="g27568"
+       transform="matrix(0.35277777,0,0,-0.35277777,1.0418219,273.25236)">
+      <g
+         id="g27570"
+         clip-path="url(#clipPath27574)">
+        <g
+           id="g27576"
+           transform="translate(186.9472,279.1128)">
+          <path
+             d="m 0,0 c -4.518,0 -8.181,-3.663 -8.181,-8.181 v -3.481 c 0,-4.518 3.663,-8.181 8.181,-8.181 h 220.881 c 4.518,0 8.181,3.663 8.181,8.181 v 3.481 c 0,4.518 -3.663,8.181 -8.181,8.181 z"
+             style="fill:#fcfadd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path27578" />
+        </g>
+      </g>
+    </g>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27582"
+       x="71.341934"
+       y="179.34314"><tspan
+         x="71.341934 73.691048 75.480621 76.935242 78.545502 79.265167 80.75248 82.541748 84.189186 85.581436 86.783882 87.503548 88.226212 89.572594 90.292259 93.050377 94.77668 96.358749 97.089508 98.879082 100.62727 101.34694 102.79857 104.58064 106.33033 107.54477 108.27553 110.0564 111.83968 113.44993 114.16959 115.70668 117.35712 119.10711 120.32154 121.04421 121.95849 123.55344 124.76788 125.50255 127.28432 129.03252 129.75218 131.53815 132.68422 134.32176 135.91702 137.13145 138.89944"
+         y="179.34314"
+         sodipodi:role="line"
+         id="tspan27580"
+         style="stroke-width:0.352778">Once chest is moving continue ventilation breaths</tspan></text>
+    <g
+       id="g27584"
+       transform="matrix(0.35277777,0,0,-0.35277777,1.0418219,273.25236)">
+      <g
+         id="g27586"
+         clip-path="url(#clipPath27590)">
+        <g
+           id="g27592"
+           transform="translate(186.9472,502.3228)">
+          <path
+             d="m 0,0 c -4.518,0 -8.181,-3.663 -8.181,-8.181 v -34.662 c 0,-4.518 3.663,-8.181 8.181,-8.181 h 220.881 c 4.518,0 8.181,3.663 8.181,8.181 v 34.662 c 0,4.518 -3.663,8.181 -8.181,8.181 z"
+             style="fill:#fcd7cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path27594" />
+        </g>
+      </g>
+    </g>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27598"
+       x="87.653992"
+       y="100.58712"><tspan
+         x="87.653992 88.570068 89.718536 90.438202 92.27845 94.011345 95.443779 97.288223 98.100853 99.952194 101.75436 102.47402 103.62549 104.34516 106.1917 108.00706 109.25149 109.97115 111.81889 113.03153 114.72065 116.36568 117.62331 119.46775 120.28068 122.13202"
+         y="100.58712"
+         sodipodi:role="line"
+         id="tspan27596"
+         style="stroke-width:0.352778">If gasping / not breathing</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27602"
+       x="66.106636"
+       y="104.26211"><tspan
+         x="66.106636 67.545967"
+         y="104.26211"
+         sodipodi:role="line"
+         id="tspan27600"
+         style="stroke-width:0.352778">•</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27606"
+       x="69.106628"
+       y="104.26211"><tspan
+         x="69.106628 71.300713 72.110336 73.701096 75.353333 76.072998 77.800201 78.519867 79.332489 81.150551 82.357185 83.334732 84.980072 86.237694 87.046715 88.889664 90.741005 92.129364 92.84903 93.913536 95.663528 97.390724 98.11039 99.654373 102.4101 103.12977"
+         y="104.26211"
+         sodipodi:role="line"
+         id="tspan27604"
+         style="stroke-width:0.352778">Give 5 inflations (30 cm H</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.74819px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27610"
+       x="105.45039"
+       y="105.26065"><tspan
+         x="105.45039"
+         y="105.26065"
+         id="tspan27608"
+         style="stroke-width:0.352778">2</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27614"
+       x="106.46223"
+       y="104.26211"><tspan
+         x="106.46223 108.73788 109.79039 110.51006 111.94939 112.66905 114.09309 115.366 117.06592 118.35772 119.60214 120.32181 121.13474 122.9369 123.65656 125.35258 126.1655"
+         y="104.26211"
+         sodipodi:role="line"
+         id="tspan27612"
+         style="stroke-width:0.352778">O) – start in air</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27618"
+       x="66.106636"
+       y="107.9371"><tspan
+         x="66.106636 67.545967"
+         y="107.9371"
+         sodipodi:role="line"
+         id="tspan27616"
+         style="stroke-width:0.352778">•</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27622"
+       x="69.106628"
+       y="107.9371"><tspan
+         x="69.106628 71.156174 72.942146 74.723923 75.532349 77.088631 77.808296 79.65094 81.411125 83.17131 85.030449 85.750114 87.585869 89.170929 90.898132 91.617798 93.106308 95.820053 96.539719"
+         y="107.9371"
+         sodipodi:role="line"
+         id="tspan27620"
+         style="stroke-width:0.352778">Apply PEEP 5–6 cm H</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.74819px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27626"
+       x="98.805016"
+       y="108.93564"><tspan
+         x="98.805016"
+         y="108.93564"
+         id="tspan27624"
+         style="stroke-width:0.352778">2</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27630"
+       x="99.818787"
+       y="107.9371"><tspan
+         x="99.818787 101.54269 102.28335 103.00301 103.73108 104.83756 105.55723 107.3558 109.12708 110.48814 111.84772 112.57848 114.36025 115.21486 116.82511"
+         y="107.9371"
+         sodipodi:role="line"
+         id="tspan27628"
+         style="stroke-width:0.352778">0, if possible</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27634"
+       x="66.106636"
+       y="111.61213"><tspan
+         x="66.106636 67.545967"
+         y="111.61213"
+         sodipodi:role="line"
+         id="tspan27632"
+         style="stroke-width:0.352778">•</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27638"
+       x="69.106628"
+       y="111.61213"><tspan
+         x="69.106628 71.156174 72.943352 74.725121 75.533546 77.089828 77.809494 79.567284 81.367348"
+         y="111.61213"
+         sodipodi:role="line"
+         id="tspan27636"
+         style="stroke-width:0.352778">Apply SpO</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.74819px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27642"
+       x="83.580391"
+       y="112.61066"><tspan
+         x="83.580391"
+         y="112.61066"
+         id="tspan27640"
+         style="stroke-width:0.352778">2</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27646"
+       x="85.306992"
+       y="111.61213"><tspan
+         x="85.306992 86.947533 88.066612 89.026169 89.745834 91.509018 93.416138 95.524162"
+         y="111.61213"
+         sodipodi:role="line"
+         id="tspan27644"
+         style="stroke-width:0.352778">+/- ECG</tspan></text>
+    <g
+       id="g27648"
+       transform="matrix(0.35277777,0,0,-0.35277777,1.0418219,273.25236)">
+      <g
+         id="g27650"
+         clip-path="url(#clipPath27654)">
+        <g
+           id="g27656"
+           transform="translate(186.9471,541.5767)">
+          <path
+             d="m 0,0 c -4.518,0 -8.181,-3.663 -8.181,-8.181 v -11.985 c 0,-4.518 3.663,-8.18 8.181,-8.18 h 220.881 c 4.518,0 8.181,3.662 8.181,8.18 v 11.985 c 0,4.518 -3.663,8.181 -8.181,8.181 z"
+             style="fill:#fcd7cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path27658" />
+        </g>
+      </g>
+    </g>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27662"
+       x="89.724617"
+       y="86.414131"><tspan
+         x="89.724617 91.566963 93.418304 94.847145 96.687096 97.899734 99.551964 100.27164 101.97185 103.77401 104.49368 106.33662 108.18677 109.89447 111.69664 112.41631 114.11232 114.92525 116.22395 118.62613 120.25378 121.86403"
+         y="86.414131"
+         sodipodi:role="line"
+         id="tspan27660"
+         style="stroke-width:0.352778">Ensure an open airway</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27666"
+       x="89.404434"
+       y="90.089127"><tspan
+         x="89.404434 91.269875 92.415939 94.04509 95.223541 96.873978 98.052734 100.73888 101.52752 102.24719 103.69852 105.48029 107.24797 108.60754 109.3482 111.13147 112.78191 113.93037 114.65004 116.57515 118.29785 120.32491"
+         y="90.089127"
+         sodipodi:role="line"
+         id="tspan27664"
+         style="stroke-width:0.352778">Preterm: consider CPAP</tspan></text>
+    <path
+       d="M 64.106492,50.046341 H 147.80055 V 38.502394 H 64.106492 Z"
+       style="fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="path27668" />
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.93889px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27672"
+       x="100.17499"
+       y="44.425392"><tspan
+         x="100.17499 103.43861 104.70592 106.76742 108.76273"
+         y="44.425392"
+         sodipodi:role="line"
+         id="tspan27670"
+         style="stroke-width:0.352778">Birth</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27676"
+       x="84.521461"
+       y="47.600391"><tspan
+         x="84.521461 86.72934 88.379776 89.294052 90.863525 92.419807 93.139473 94.591103 96.372871 97.52314 99.271332 99.990997 101.47951 102.39378 104.04692 106.79424 108.57512 109.30618 111.09545 112.84364 113.56331 114.29137 115.39786 116.11752 117.9164 119.68767 121.04874 122.40831 123.13908 124.92085 125.77545"
+         y="47.600391"
+         sodipodi:role="line"
+         id="tspan27674"
+         style="stroke-width:0.352778">Delay cord clamping if possible</tspan></text>
+    <path
+       d="m 64.106492,127.81761 h 83.694058 v -9.99984 H 64.106492 Z"
+       style="fill:#0b4476;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="path27678" />
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27682"
+       x="99.58239"
+       y="122.03555"><tspan
+         x="99.58239 101.54798 103.2371 104.97 106.39134 107.81268 109.51619 110.93753"
+         y="122.03555"
+         sodipodi:role="line"
+         id="tspan27680"
+         style="stroke-width:0.352778">Reassess</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27686"
+       x="69.794868"
+       y="125.71054"><tspan
+         x="69.794868 70.635674 71.742165 72.461823 74.251404 75.999588 76.719261 77.45002 79.239288 80.727798 81.873871 83.511414 85.212524 86.587685 88.197937 88.91761 89.648369 91.396561 92.116226 93.905495 95.543037 97.196175 98.449593 99.652039 100.3717 101.55735 103.15262 104.32987 105.95332 106.69398 107.41364 108.27004 110.06261 111.84439 113.37068 114.09035 115.18994 116.97201 118.12048 118.84015 120.32835 122.11793 123.76537 125.15762 126.36006 127.07973 129.83786 131.56415 133.10094 134.75137 137.50951 139.15993 140.90993"
+         y="125.71054"
+         sodipodi:role="line"
+         id="tspan27684"
+         style="stroke-width:0.352778">If no increase in heart rate, look for chest movement</tspan></text>
+    <path
+       d="m 64.106492,170.64377 h 83.694058 v -9.99983 H 64.106492 Z"
+       style="fill:#0b4476;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="path27688" />
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27692"
+       x="99.58239"
+       y="164.86189"><tspan
+         x="99.58239 101.54798 103.2371 104.97 106.39134 107.81268 109.51619 110.93753"
+         y="164.86189"
+         sodipodi:role="line"
+         id="tspan27690"
+         style="stroke-width:0.352778">Reassess</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27696"
+       x="69.794868"
+       y="168.53688"><tspan
+         x="69.794868 70.635674 71.742165 72.461823 74.251404 75.999588 76.719261 77.45002 79.239288 80.727798 81.873871 83.511414 85.212524 86.587685 88.197937 88.91761 89.648369 91.396561 92.116226 93.905495 95.543037 97.196175 98.449593 99.652039 100.3717 101.55735 103.15262 104.32987 105.95332 106.69398 107.41364 108.27004 110.06261 111.84439 113.37068 114.09035 115.18994 116.97201 118.12048 118.84015 120.32835 122.11793 123.76537 125.15762 126.36006 127.07973 129.83786 131.56415 133.10094 134.75137 137.50951 139.15993 140.90993"
+         y="168.53688"
+         sodipodi:role="line"
+         id="tspan27694"
+         style="stroke-width:0.352778">If no increase in heart rate, look for chest movement</tspan></text>
+    <path
+       d="m 64.106492,223.75658 h 83.694058 v -9.99984 H 64.106492 Z"
+       style="fill:#0b4476;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="path27698" />
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27702"
+       x="76.718727"
+       y="218.22458"><tspan
+         x="76.718727 78.684311 80.373428 82.106331 83.527374 84.94841 86.651924 88.072968 89.461319 90.180992 92.032333 93.721146 95.421364 96.713165 97.957588 98.677254 99.909683 101.55502 102.79134 104.44358 105.16325 106.86346 108.71451 110.51667 111.23634 112.78032 114.63166 116.33517 117.75922 119.00363 119.7233 122.5279 124.31058 125.90134 127.60905 130.41844 132.12616 133.94421 135.18864"
+         y="218.22458"
+         sodipodi:role="line"
+         id="tspan27700"
+         style="stroke-width:0.352778">Reassess heart rate and chest movement</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27706"
+       x="93.773132"
+       y="221.39958"><tspan
+         x="93.773132 95.425369 97.016129 98.723839 100.03393 101.64419 102.36385 104.11384 105.84104 106.56071 107.98175 109.69186 111.20316 113.0461 114.89745 116.74669"
+         y="221.39958"
+         sodipodi:role="line"
+         id="tspan27704"
+         style="stroke-width:0.352778">every 30 seconds</tspan></text>
+    <g
+       id="g27708"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,159.22824)">
+      <path
+         d="M 0,0 V 6.895"
+         style="fill:none;stroke:#f58d7a;stroke-width:1.966;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path27710" />
+    </g>
+    <g
+       id="g27712"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,160.79584)">
+      <path
+         d="M 0,0 -5.756,6.191 H 5.756 Z"
+         style="fill:#f58d7a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path27714" />
+    </g>
+    <g
+       id="g27716"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,173.21997)">
+      <path
+         d="M 0,0 V 6.895"
+         style="fill:none;stroke:#829cc1;stroke-width:1.966;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path27718" />
+    </g>
+    <g
+       id="g27720"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,174.78757)">
+      <path
+         d="M 0,0 -5.756,6.191 H 5.756 Z"
+         style="fill:#829cc1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path27722" />
+    </g>
+    <g
+       id="g27724"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,130.24991)">
+      <path
+         d="M 0,0 V 6.895"
+         style="fill:none;stroke:#829cc1;stroke-width:1.966;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path27726" />
+    </g>
+    <g
+       id="g27728"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,131.81751)">
+      <path
+         d="M 0,0 -5.756,6.191 H 5.756 Z"
+         style="fill:#829cc1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path27730" />
+    </g>
+    <g
+       id="g27732"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,94.628561)">
+      <path
+         d="M 0,0 V 6.895"
+         style="fill:none;stroke:#f7a593;stroke-width:1.966;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path27734" />
+    </g>
+    <g
+       id="g27736"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,96.196165)">
+      <path
+         d="M 0,0 -5.756,6.191 H 5.756 Z"
+         style="fill:#f7a593;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path27738" />
+    </g>
+    <g
+       id="g27740"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,212.189)">
+      <path
+         d="M 0,0 V 6.895"
+         style="fill:none;stroke:#f4ef92;stroke-width:1.966;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path27742" />
+    </g>
+    <g
+       id="g27744"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,213.7566)">
+      <path
+         d="M 0,0 -5.756,6.191 H 5.756 Z"
+         style="fill:#f4ef92;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path27746" />
+    </g>
+    <g
+       id="g27748"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,248.74231)">
+      <path
+         d="M 0,0 V 6.895"
+         style="fill:none;stroke:#f4ef92;stroke-width:1.966;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path27750" />
+    </g>
+    <g
+       id="g27752"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,250.30992)">
+      <path
+         d="M 0,0 -5.756,6.191 H 5.756 Z"
+         style="fill:#f4ef92;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path27754" />
+    </g>
+    <g
+       id="g27756"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,226.18898)">
+      <path
+         d="M 0,0 V 6.895"
+         style="fill:none;stroke:#829cc1;stroke-width:1.966;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path27758" />
+    </g>
+    <g
+       id="g27760"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,227.75659)">
+      <path
+         d="M 0,0 -5.756,6.191 H 5.756 Z"
+         style="fill:#829cc1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path27762" />
+    </g>
+    <g
+       id="g27764"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,184.22)">
+      <path
+         d="M 0,0 V 6.895"
+         style="fill:none;stroke:#f4ef92;stroke-width:1.966;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path27766" />
+    </g>
+    <g
+       id="g27768"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,185.78761)">
+      <path
+         d="M 0,0 -5.756,6.191 H 5.756 Z"
+         style="fill:#f4ef92;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path27770" />
+    </g>
+    <g
+       id="g27772"
+       transform="matrix(0.35277777,0,0,-0.35277777,1.0418219,273.25236)">
+      <g
+         id="g27774"
+         clip-path="url(#clipPath27778)">
+        <g
+           id="g27780"
+           transform="translate(186.9472,65.0337)">
+          <path
+             d="m 0,0 c -4.518,0 -8.181,-3.663 -8.181,-8.181 v -11.985 c 0,-4.518 3.663,-8.18 8.181,-8.18 h 220.881 c 4.518,0 8.181,3.662 8.181,8.18 v 11.985 c 0,4.518 -3.663,8.181 -8.181,8.181 z"
+             style="fill:#e6f1de;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path27782" />
+        </g>
+      </g>
+    </g>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27786"
+       x="82.807388"
+       y="254.52791"><tspan
+         x="82.807388 85.120514 86.91938 88.68766 90.282928 91.460182 93.070435 93.7901 95.572777 97.225906 98.371979 100.02242 101.7724 103.03452 104.3809 105.10056 106.7534 108.54297 110.29115 111.01082 112.7941 114.44453 116.23051 117.40926 118.14392 119.77306 120.87955 121.59921 122.77647 124.41401 126.06715"
+         y="254.52791"
+         sodipodi:role="line"
+         id="tspan27784"
+         style="stroke-width:0.352778">Update parents and debrief team</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27790"
+       x="93.524635"
+       y="258.20291"><tspan
+         x="93.524635 95.451241 97.232414 99.979141 101.76032 102.61523 104.24407 105.42162 107.03188 107.75154 108.89761 110.56334 112.01527 113.79644 114.94671 116.71469"
+         y="258.20291"
+         sodipodi:role="line"
+         id="tspan27788"
+         style="stroke-width:0.352778">Complete records</tspan></text>
+    <g
+       id="g27792"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,66.274648)">
+      <path
+         d="M 0,0 V 6.895"
+         style="fill:none;stroke:#829cc1;stroke-width:1.966;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path27794" />
+    </g>
+    <g
+       id="g27796"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,67.842251)">
+      <path
+         d="M 0,0 -5.756,6.191 H 5.756 Z"
+         style="fill:#829cc1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path27798" />
+    </g>
+    <g
+       id="g27800"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,80.274669)">
+      <path
+         d="M 0,0 V 6.895"
+         style="fill:none;stroke:#829cc1;stroke-width:1.966;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path27802" />
+    </g>
+    <g
+       id="g27804"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,81.842272)">
+      <path
+         d="M 0,0 -5.756,6.191 H 5.756 Z"
+         style="fill:#829cc1;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path27806" />
+    </g>
+    <g
+       id="g27808"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,52.47885)">
+      <path
+         d="M 0,0 V 6.895"
+         style="fill:none;stroke:#800939;stroke-width:1.966;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path27810" />
+    </g>
+    <g
+       id="g27812"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,54.046453)">
+      <path
+         d="M 0,0 -5.756,6.191 H 5.756 Z"
+         style="fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path27814" />
+    </g>
+    <g
+       id="g27816"
+       transform="matrix(0.35277777,0,0,-0.35277777,1.0418219,273.25236)">
+      <g
+         id="g27818"
+         clip-path="url(#clipPath27822)">
+        <g
+           id="g27824"
+           transform="translate(186.9472,704.4092)">
+          <path
+             d="m 0,0 c -4.518,0 -8.181,-3.663 -8.181,-8.181 v -11.985 c 0,-4.518 3.663,-8.18 8.181,-8.18 h 220.881 c 4.518,0 8.181,3.662 8.181,8.18 v 11.985 c 0,4.518 -3.663,8.181 -8.181,8.181 z"
+             style="fill:#cbd5e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path27826" />
+        </g>
+      </g>
+    </g>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27830"
+       x="88.995499"
+       y="28.970406"><tspan
+         x="88.995499 90.063004 92.153038 93.971092 95.207123 96.915131 98.755974 100.40131 101.67422 103.36064 104.28122 105.00089 106.51218 108.36233 110.20227 112.05241 113.47346 115.17637 116.11703 117.07779 117.89071 119.74085 121.53762"
+         y="28.970406"
+         sodipodi:role="line"
+         id="tspan27828"
+         style="stroke-width:0.352778">(Antenatal counselling)</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27834"
+       x="81.057961"
+       y="32.645439"><tspan
+         x="81.057961 82.636429 84.273972 85.926208 88.639954 89.359619 91.145592 92.324341 93.059006 94.688148 95.859703 96.590469 98.380638 100.12883 100.8485 102.50073 104.2909 106.03909 106.75876 108.42448 110.20176 111.97424 112.705 114.49097 117.2491 118.89923 120.64922 121.85166 122.57133 124.05984 125.85001 127.51544 129.00395"
+         y="32.645439"
+         sodipodi:role="line"
+         id="tspan27832"
+         style="stroke-width:0.352778">Team briefing and equipment check</tspan></text>
+    <path
+       d="m 18.866982,49.876655 h 35.06999 V 38.67208 h -35.06999 z"
+       style="fill:#800939;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="path27836" />
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.07247px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27840"
+       x="28.592876"
+       y="43.501961"><tspan
+         x="28.592876 31.113735 32.71014 34.948788 36.575329 38.846539 40.468197 44.210796"
+         y="43.501961"
+         sodipodi:role="line"
+         id="tspan27838"
+         style="stroke-width:0.352778">Preterm</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.07247px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27844"
+       x="26.057156"
+       y="47.913834"><tspan
+         x="26.057156 28.402889 29.380291 31.601818 33.947552 34.924953 38.095776 40.370251 42.64146 44.861355"
+         y="47.913834"
+         sodipodi:role="line"
+         id="tspan27842"
+         style="stroke-width:0.352778">&lt; 32 weeks</tspan></text>
+    <path
+       d="m 18.866982,49.876655 h 35.06999 V 38.67208 h -35.06999 z"
+       style="fill:none;stroke:#800939;stroke-width:0.339372;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path27846" />
+    <path
+       d="m 18.745272,116.95241 h 35.3134 v 8.001 h -35.3134 z"
+       style="fill:#d3d2d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="path27848" />
+    <path
+       d="m 18.745272,124.95341 h 17.65652 v 5.57636 h -17.65652 z m 0,5.57636 h 17.65652 v 5.57635 h -17.65652 z m 0,5.57635 h 17.65652 v 5.57636 h -17.65652 z"
+       style="fill:#e9e9e9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="path27850" />
+    <g
+       id="g27852"
+       transform="matrix(0.35277777,0,0,-0.35277777,18.697152,116.95241)">
+      <path
+         d="M 0,0 H 50.187"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27854" />
+    </g>
+    <g
+       id="g27856"
+       transform="matrix(0.35277777,0,0,-0.35277777,18.745272,124.90529)">
+      <path
+         d="M 0,0 V 22.407"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27858" />
+    </g>
+    <g
+       id="g27860"
+       transform="matrix(0.35277777,0,0,-0.35277777,36.401862,116.95241)">
+      <path
+         d="M 0,0 H 50.187"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27862" />
+    </g>
+    <g
+       id="g27864"
+       transform="matrix(0.35277777,0,0,-0.35277777,54.058502,124.90529)">
+      <path
+         d="M 0,0 V 22.407"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27866" />
+    </g>
+    <g
+       id="g27868"
+       transform="matrix(0.35277777,0,0,-0.35277777,18.697152,124.95341)">
+      <path
+         d="M 0,0 H 50.187"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27870" />
+    </g>
+    <g
+       id="g27872"
+       transform="matrix(0.35277777,0,0,-0.35277777,18.745272,130.48168)">
+      <path
+         d="M 0,0 V 15.534"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27874" />
+    </g>
+    <g
+       id="g27876"
+       transform="matrix(0.35277777,0,0,-0.35277777,36.401862,124.95341)">
+      <path
+         d="M 0,0 H 50.187"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27878" />
+    </g>
+    <g
+       id="g27880"
+       transform="matrix(0.35277777,0,0,-0.35277777,36.401862,130.48168)">
+      <path
+         d="M 0,0 V 15.534"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27882" />
+    </g>
+    <g
+       id="g27884"
+       transform="matrix(0.35277777,0,0,-0.35277777,54.058502,130.48168)">
+      <path
+         d="M 0,0 V 15.534"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27886" />
+    </g>
+    <g
+       id="g27888"
+       transform="matrix(0.35277777,0,0,-0.35277777,18.697152,130.5298)">
+      <path
+         d="M 0,0 H 50.187"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27890" />
+    </g>
+    <g
+       id="g27892"
+       transform="matrix(0.35277777,0,0,-0.35277777,18.745272,136.05808)">
+      <path
+         d="M 0,0 V 15.534"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27894" />
+    </g>
+    <g
+       id="g27896"
+       transform="matrix(0.35277777,0,0,-0.35277777,36.401862,130.5298)">
+      <path
+         d="M 0,0 H 50.187"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27898" />
+    </g>
+    <g
+       id="g27900"
+       transform="matrix(0.35277777,0,0,-0.35277777,36.401862,136.05808)">
+      <path
+         d="M 0,0 V 15.534"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27902" />
+    </g>
+    <g
+       id="g27904"
+       transform="matrix(0.35277777,0,0,-0.35277777,54.058502,136.05808)">
+      <path
+         d="M 0,0 V 15.534"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27906" />
+    </g>
+    <g
+       id="g27908"
+       transform="matrix(0.35277777,0,0,-0.35277777,18.697152,136.10616)">
+      <path
+         d="M 0,0 H 50.187"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27910" />
+    </g>
+    <g
+       id="g27912"
+       transform="matrix(0.35277777,0,0,-0.35277777,18.745272,141.63447)">
+      <path
+         d="M 0,0 V 15.534"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27914" />
+    </g>
+    <g
+       id="g27916"
+       transform="matrix(0.35277777,0,0,-0.35277777,36.401862,136.10616)">
+      <path
+         d="M 0,0 H 50.187"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27918" />
+    </g>
+    <g
+       id="g27920"
+       transform="matrix(0.35277777,0,0,-0.35277777,36.401862,141.63447)">
+      <path
+         d="M 0,0 V 15.534"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27922" />
+    </g>
+    <g
+       id="g27924"
+       transform="matrix(0.35277777,0,0,-0.35277777,54.058502,141.63447)">
+      <path
+         d="M 0,0 V 15.534"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27926" />
+    </g>
+    <g
+       id="g27928"
+       transform="matrix(0.35277777,0,0,-0.35277777,18.697152,141.68255)">
+      <path
+         d="M 0,0 H 50.187"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27930" />
+    </g>
+    <g
+       id="g27932"
+       transform="matrix(0.35277777,0,0,-0.35277777,36.401862,141.68255)">
+      <path
+         d="M 0,0 H 50.187"
+         style="fill:none;stroke:#918f90;stroke-width:0.273;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path27934" />
+    </g>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27938"
+       x="28.672817"
+       y="120.42092"><tspan
+         x="28.672817 30.687283 32.141613 33.595943 35.24638 36.99786 38.231792 39.88493 41.666409 42.521313 44.131557"
+         y="120.42092"
+         sodipodi:role="line"
+         id="tspan27936"
+         style="stroke-width:0.352778">Acceptable</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27942"
+       x="25.340939"
+       y="123.59592"><tspan
+         x="25.340939 27.126919 28.272991 30.016979 31.111172 32.889339 34.672619 36.236095 37.468517 39.108761 39.96307 40.682735 42.440823 44.240887"
+         y="123.59592"
+         sodipodi:role="line"
+         id="tspan27940"
+         style="stroke-width:0.352778">pre-ductal SpO</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.74819px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27946"
+       x="46.455853"
+       y="124.59446"><tspan
+         x="46.455853"
+         y="124.59446"
+         id="tspan27944"
+         style="stroke-width:0.352778">2</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27950"
+       x="23.739895"
+       y="129.06439"><tspan
+         x="23.739895 25.467098 26.186764 28.928387 29.659145"
+         y="129.06439"
+         sodipodi:role="line"
+         id="tspan27948"
+         style="stroke-width:0.352778">2 min</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27954"
+       x="42.244366"
+       y="129.06439"><tspan
+         x="42.244366 43.948177 45.624401"
+         y="129.06439"
+         sodipodi:role="line"
+         id="tspan27952"
+         style="stroke-width:0.352778">65%</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27958"
+       x="23.739895"
+       y="134.64079"><tspan
+         x="23.739895 25.467098 26.186764 28.928387 29.659145"
+         y="134.64079"
+         sodipodi:role="line"
+         id="tspan27956"
+         style="stroke-width:0.352778">5 min</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27962"
+       x="42.230282"
+       y="134.64079"><tspan
+         x="42.230282 43.962276 45.6385"
+         y="134.64079"
+         sodipodi:role="line"
+         id="tspan27960"
+         style="stroke-width:0.352778">85%</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27966"
+       x="22.918728"
+       y="140.21719"><tspan
+         x="22.918728 24.561977 26.289165 27.008831 29.750469 30.481228"
+         y="140.21719"
+         sodipodi:role="line"
+         id="tspan27964"
+         style="stroke-width:0.352778">10 min</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27970"
+       x="42.147198"
+       y="140.21719"><tspan
+         x="42.147198 43.949062 45.721249"
+         y="140.21719"
+         sodipodi:role="line"
+         id="tspan27968"
+         style="stroke-width:0.352778">90%</tspan></text>
+    <g
+       id="g27972"
+       transform="matrix(0.35277777,0,0,-0.35277777,1.0418219,273.25236)">
+      <g
+         id="g27974"
+         clip-path="url(#clipPath27978)">
+        <g
+           id="g27980"
+           transform="translate(186.9472,400.4868)">
+          <path
+             d="m 0,0 c -4.518,0 -8.181,-3.663 -8.181,-8.181 v -54.012 c 0,-4.518 3.663,-8.181 8.181,-8.181 h 220.881 c 4.518,0 8.181,3.663 8.181,8.181 v 54.012 c 0,4.518 -3.663,8.181 -8.181,8.181 z"
+             style="fill:#fcd7cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path27982" />
+        </g>
+      </g>
+    </g>
+    <text
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27986"
+       x="87.794182"
+       y="136.25073"><tspan
+         x="87.794182 88.710258 89.858727 90.578392 91.836014 93.687355 95.339592 96.059258 97.603241 99.454285 101.15779 102.58183 103.82626 104.54592 105.36065 106.749 107.46867 109.31522 111.13057 112.375 113.09467 115.89926 117.68194 119.32758 120.1405 121.99184"
+         y="136.25073"
+         sodipodi:role="line"
+         id="tspan27984"
+         style="stroke-width:0.352778">If the chest is not moving</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27990"
+       x="66.106636"
+       y="139.92575"><tspan
+         x="66.106636 67.545967"
+         y="139.92575"
+         sodipodi:role="line"
+         id="tspan27988"
+         style="stroke-width:0.352778">•</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27994"
+       x="69.106628"
+       y="139.92575"><tspan
+         x="69.106628 71.054222 72.843796 74.509521 75.998032 77.52433 78.243996 80.986221 82.687332 84.050804 85.615776 86.356438 87.076103 88.865669 90.503212 92.135361 93.883553 94.603218 96.256348 98.045921 99.794113 100.51378 101.26013 102.8518 105.17572 105.89539 107.69395 109.46523 110.8248 111.55286 112.767 113.50166 115.28343"
+         y="139.92575"
+         sodipodi:role="line"
+         id="tspan27992"
+         style="stroke-width:0.352778">Check mask, head and jaw position</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text27998"
+       x="66.106636"
+       y="143.60075"><tspan
+         x="66.106636 67.545967"
+         y="143.60075"
+         sodipodi:role="line"
+         id="tspan27996"
+         style="stroke-width:0.352778">•</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text28002"
+       x="69.106628"
+       y="143.60075"><tspan
+         x="69.106628 70.833824 71.553482 73.352669 75.003098 76.202538 77.577705 79.359177 81.107368 81.827034 83.190498 84.960281 86.746254 88.545418 90.327194 91.580612"
+         y="143.60075"
+         sodipodi:role="line"
+         id="tspan28000"
+         style="stroke-width:0.352778">2 person support</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text28006"
+       x="66.106636"
+       y="147.27574"><tspan
+         x="66.106636 67.545967"
+         y="147.27574"
+         sodipodi:role="line"
+         id="tspan28004"
+         style="stroke-width:0.352778">•</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text28010"
+       x="69.106628"
+       y="147.27574"><tspan
+         x="69.106628 71.033234 72.815002 74.582993 75.942558 76.683212 78.466492 80.116623 81.265091 81.984764 83.348228 85.1315 86.694977 87.909119 88.643776 90.425552 92.206429 92.947083 93.666748 94.580727 96.233864 97.491478 99.073547 100.86311 102.64639 104.28394 105.92447 106.77908 107.49874 110.24127 111.94208 113.30555 114.90321 116.07656 117.2907 118.47636 120.1088 121.59731 123.38658 125.02412 126.66467 127.51926 128.23894 129.44887 131.21866 133.01752"
+         y="147.27574"
+         sodipodi:role="line"
+         id="tspan28008"
+         style="stroke-width:0.352778">Consider suction, laryngeal mask/tracheal tube</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text28014"
+       x="66.106636"
+       y="150.95073"><tspan
+         x="66.106636 67.545967"
+         y="150.95073"
+         sodipodi:role="line"
+         id="tspan28012"
+         style="stroke-width:0.352778">•</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text28018"
+       x="69.106628"
+       y="150.95073"><tspan
+         x="69.106628 71.038322 72.688766 74.487633 76.125175 77.720436 78.922882 79.642548 80.373009 82.123299 83.286461 84.200737 85.795998 87.010132 87.744789 89.526566 91.274757 91.994423 93.780396 94.926468 96.564003 98.159271 99.373405 101.14139"
+         y="150.95073"
+         sodipodi:role="line"
+         id="tspan28016"
+         style="stroke-width:0.352778">Repeat inflation breaths</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text28022"
+       x="66.459419"
+       y="154.62573"><tspan
+         x="66.459419 67.898743"
+         y="154.62573"
+         sodipodi:role="line"
+         id="tspan28020"
+         style="stroke-width:0.352778">•</tspan></text>
+    <text
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.99861px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text28026"
+       x="69.459404"
+       y="154.62573"><tspan
+         x="69.459404 71.386009 73.167786 74.935768 76.294136 77.034798 78.818069 80.468506 81.616974 82.336639 83.067398 84.856674 86.343987 87.490051 89.127594 90.828705 92.18708 92.917839 94.707413 96.455605 97.17527 98.389702 100.17928 101.78953 102.50919 103.23996 104.98965 106.15311 107.06738 108.66264 109.87708 110.61174 112.39352 114.14171 114.86137 116.64735 117.79341 119.44086 120.80162 122.16509 123.93488 125.08094"
+         y="154.62573"
+         sodipodi:role="line"
+         id="tspan28024"
+         style="stroke-width:0.352778">Consider increasing the inflation pressure</tspan></text>
+    <g
+       id="g28028"
+       transform="matrix(0.35277777,0,0,-0.35277777,158.44597,107.72921)">
+      <path
+         d="M 0,0 8.113,-8.971"
+         style="fill:none;stroke:#0b4476;stroke-width:0.709;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 2.199;stroke-dashoffset:0;stroke-opacity:1"
+         id="path28030" />
+    </g>
+    <g
+       id="g28032"
+       transform="matrix(0.35277777,0,0,-0.35277777,162.08156,110.67826)">
+      <path
+         d="M 0,0 9.46,9.277"
+         style="fill:none;stroke:#0b4476;stroke-width:0.709;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 2.038;stroke-dashoffset:0;stroke-opacity:1"
+         id="path28034" />
+    </g>
+    <g
+       id="g28036"
+       transform="matrix(0.35277777,0,0,-0.35277777,165.67562,106.40619)">
+      <path
+         d="M 0,0 V 191.778"
+         style="fill:none;stroke:#0b4476;stroke-width:0.709;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 2.119;stroke-dashoffset:0;stroke-opacity:1"
+         id="path28038" />
+    </g>
+    <g
+       id="g28040"
+       transform="matrix(0.35277777,0,0,-0.35277777,164.90061,38.37737)">
+      <path
+         d="M 0,0 H -18.673"
+         style="fill:none;stroke:#0b4476;stroke-width:0.709;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 2.197;stroke-dashoffset:0;stroke-opacity:1"
+         id="path28042" />
+    </g>
+    <g
+       id="g28044"
+       transform="matrix(0.35277777,0,0,-0.35277777,157.92562,39.124941)">
+      <path
+         d="M 0,0 V -191.778"
+         style="fill:none;stroke:#0b4476;stroke-width:0.709;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0, 2.119;stroke-dashoffset:0;stroke-opacity:1"
+         id="path28046" />
+    </g>
+    <g
+       id="g28048"
+       transform="matrix(0.35277777,0,0,-0.35277777,161.56812,111.18174)">
+      <path
+         d="m 0,0 v 0 m 11.643,11.418 v 0 m 0,194.957 v 0 m -21.968,0 v 0 m 0,-194.957 v 0"
+         style="fill:none;stroke:#0b4476;stroke-width:0.709;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path28050" />
+    </g>
+    <text
+       transform="rotate(90)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88197px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#0b4476;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text28054"
+       x="40.10376"
+       y="-160.48697"><tspan
+         x="40.10376 42.739223 45.130516 47.521809 50.029556 52.928997 55.603672 56.535347 58.817554 61.053566 61.985237 64.260071 66.552765 69.015869 72.041862 75.04689 77.863647"
+         y="-160.48697"
+         sodipodi:role="line"
+         id="tspan28052"
+         style="stroke-width:0.352778">APPROX 60 SECONDS</tspan></text>
+    <g
+       id="g28056"
+       transform="matrix(0.35277777,0,0,-0.35277777,1.0418219,273.25236)">
+      <g
+         id="g28058">
+        <g
+           id="g28064">
+          <g
+             id="g28066">
+            <path
+               d="m 478.239,102.399 10.325,-11.418 11.643,11.418 v 563.743 h -21.968 z"
+               style="fill:url(#linearGradient28076);stroke:none"
+               id="path28078" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       transform="rotate(90)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88197px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text28082"
+       x="40.10376"
+       y="-172.42917"><tspan
+         x="40.10376 43.453896 46.089748 47.241917 50.215893 52.254314 54.890167 56.041946 59.058235 59.989906 62.284538 64.610619 67.960754 70.351265 72.677338 75.32251 77.667999 79.977768 82.988625 85.511894"
+         y="-172.42917"
+         sodipodi:role="line"
+         id="tspan28080"
+         style="stroke-width:0.352778">MAINTAIN TEMPERATURE</tspan></text>
+    <g
+       id="g28084"
+       transform="matrix(0.35277777,0,0,-0.35277777,1.0418219,273.25236)">
+      <g
+         id="g28086">
+        <g
+           id="g28092">
+          <g
+             id="g28094">
+            <path
+               d="M 89.39,87.79 99.715,76.372 111.358,87.79 V 363.78 H 89.39 Z"
+               style="fill:url(#linearGradient28108);stroke:none"
+               id="path28110" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       transform="rotate(90)"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Resus;-inkscape-font-specification:Resus-Bold;writing-mode:lr-tb;fill:#0b4476;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text28114"
+       x="147.25235"
+       y="-35.412914"><tspan
+         x="147.25235 149.35138 150.38643 152.48546 154.90269 157.05322 159.15225 161.27597 162.12263 164.77306 167.33176 169.38387 171.92915 174.05746 176.79855"
+         y="-35.412914"
+         sodipodi:role="line"
+         id="tspan28112"
+         style="stroke-width:0.352778">TITRATE OXYGEN</tspan></text>
+    <text
+       transform="rotate(90)"
+       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Resus;-inkscape-font-specification:Resus-Regular;writing-mode:lr-tb;fill:#0b4476;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.352778"
+       id="text28118"
+       x="177.64828"
+       y="-35.412914"><tspan
+         x="177.64828 179.65172 182.35751 183.20418 185.48524 187.72467 190.41002 191.3791 193.53281 195.89255 198.00215 198.84882 200.67973 203.03946 205.29936 207.79243 209.93591 212.04553 212.8922 214.92914 217.01758 219.12331 221.815 224.18954 226.278 228.37033 229.3708 232.0826 234.78453"
+         y="-35.412914"
+         sodipodi:role="line"
+         id="tspan28116"
+         style="stroke-width:0.352778">TO ACHIEVE TARGET SATURATIONS</tspan></text>
+    <g
+       id="g28120"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,116.32595)">
+      <path
+         d="M 0,0 V 6.895"
+         style="fill:none;stroke:#f7a593;stroke-width:1.966;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path28122" />
+    </g>
+    <g
+       id="g28124"
+       transform="matrix(0.35277777,0,0,-0.35277777,105.95363,117.89355)">
+      <path
+         d="M 0,0 -5.756,6.191 H 5.756 Z"
+         style="fill:#f7a593;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path28126" />
+    </g>
+  </g>
+</svg>
