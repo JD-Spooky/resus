@@ -1,5 +1,5 @@
 # Asthma
-![Asthma protocol](./guidelines.md/asthma.drawio.svg#left =100x*)
+![Asthma protocol](./asthma.drawio.svg#left=100x*)
 
 ## Management of severe and life threatening asthma 
 
@@ -83,7 +83,4 @@ link RSI checklist
 link difficult airway guidelines
 
 --- 
-eResus v2.0 based on [Asthma v5.0](http://workspaces/sites/Teams/ChildrensEmergencyDepartment/guidelines/BCH_guidelines/1/index.html#11537))
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODYzNTU5NF19
--->
+eResus v2.0 based on [Asthma v5.0](http://workspaces/sites/Teams/ChildrensEmergencyDepartment/guidelines/BCH_guidelines/1/index.html#11537)

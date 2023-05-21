@@ -24,11 +24,10 @@ const Category = ({selectedCategory, setPageType, setContent}) => {
 
     return (
     <div>
-        <h4>Category Page</h4>
         <div className='m-3'>
         <Row>
         { catData && catData.categories.map((item) => (
-            <Col className="mb-2" xs="12" md="3">
+            <Col className="mb-2 p-1" xs="12" sm="6" md="4" lg="3">
                 <Card style={{cursor:'pointer'}} key={item.name} onClick={() => selectContent(item.name)}>
                     <Card.Body className="text-center">
                         <b>{item.name}</b>

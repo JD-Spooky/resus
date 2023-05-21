@@ -17,6 +17,3 @@ link PICU drug sheet
 
 --- 
 eResus v2.0 based on  [RSI in Trauma V2](http://workspaces/sites/Teams/ChildrensEmergencyDepartment/guidelines/BCH_guidelines/1/index.html#19414)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODYyMjczODddfQ==
--->

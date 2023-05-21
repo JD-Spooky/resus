@@ -46,9 +46,3 @@ Theatre 4 28560
 --- 
 eResus v2.0 based on [Abdominal Trauma vX.X](http://test.com)
 
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzAwNzYwMF19
--->

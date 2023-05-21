@@ -34,6 +34,3 @@ Surgical treatment dual incision 4 compartment fasciotomy
 
 --- 
 eResus v2.0 based on [Compartment syndome 1.2](http://workspaces/sites/Teams/ChildrensEmergencyDepartment/guidelines/BCH_guidelines/1/index.html#19508)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDgxODExMl19
--->

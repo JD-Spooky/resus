@@ -42,6 +42,3 @@ Social concerns
 
 --- 
 eResus v2.0 based on [Bronchiolitis v5.0](http://workspaces/sites/Teams/ChildrensEmergencyDepartment/guidelines/BCH_guidelines/1/index.html#7022)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTA4NzI1Nl19
--->

@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import PageTypes from './constants/PageTypes';
 import Home from './pages/Home';
@@ -14,7 +13,7 @@ const App = () => {
   const [ pageType, setPageType ] = useState(PageTypes.HOME);
   return (
     <div className="App">
-      <PageLayout pageType={pageType} setPageType={setPageType}>
+      <PageLayout selectedCategory={selectedCategory} selectedContent={selectedContent} pageType={pageType} setPageType={setPageType}>
       {
         pageType === PageTypes.ALL_CONTENT && <AllContent setPageType={setPageType} setContent={setContent} setCategory={setCategory} />
       }

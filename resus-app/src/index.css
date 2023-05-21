@@ -16,3 +16,20 @@ code {
   max-width: auto;
   height: 200px;
 }
+
+.logo{
+  position: absolute;
+  right:0;
+}
+
+.card{
+  border-radius: 0 !important;
+}
+
+.btn {
+  border-radius: 0 !important;
+}
+
+.card-img-top  {
+  border-radius: 0 !important;
+}

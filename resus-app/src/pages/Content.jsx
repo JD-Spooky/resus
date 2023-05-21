@@ -11,18 +11,22 @@ const Content = ({
 }) => {
 
     const [contentData, setContentData] = useState(false);
-
+    const [markdown, setMarkdown] = useState('');
     useEffect(() => {
         const cd = Data.find((d) => d.name === selectedCategory);
         const contD = cd.categories.find((c) => c.name === selectedContent);
+        fetch(contD.content)
+        .then (response => response.text())
+        .then (text => {
+            setMarkdown(text);
+        });
         setContentData(contD);
 
     }, [selectedCategory, selectedContent]);
     return (
         <div>
-            <h4>Content Page</h4>
-            {contentData && 
-             <ReactMarkdown children={contentData.content}/>
+            {markdown && 
+             <ReactMarkdown children={markdown}/>
             }
         </div>
     );

@@ -1,5 +1,5 @@
 #Major Haemorrhage
-![Major Haemorrhage protocol](./guidelines.md/majorHaemorrhage.png)
+![Major Haemorrhage protocol](./majorHaemorrhage.png)
 
 ## Activating the major haemorrhage protocol
 Call 2222
@@ -70,6 +70,3 @@ __Early administration is vital for efficacy__
 eResus v2.0 based on [Abdominal Trauma vX.X](http://test.com)
 
 [Major Haemorrhage v 4.0](http://workspaces/sites/Teams/ChildrensEmergencyDepartment/guidelines/BCH_guidelines/1/index.html#17077)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNDcxNzI0N119
--->

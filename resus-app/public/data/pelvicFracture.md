@@ -1,5 +1,5 @@
 # Pelvic Fracture
-![RSI checklist](./guidelines.md/pelvicFracture.png)
+![RSI checklist](./pelvicFracture.png)
 ## Imaging in Pelvic Injury
 AP pelvis with binder on. If stable repeat with binder off and additional imaging 
 Acetabular fracture Judet view
@@ -22,6 +22,3 @@ Early plastics involvement
 --- 
 eResus v2.0 based on [Pelvic Fracture V1](http://workspaces/sites/Teams/ChildrensEmergencyDepartment/guidelines/BCH_guidelines/1/index.html#17926)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDMyMTIzN119
--->

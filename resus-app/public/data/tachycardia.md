@@ -1,13 +1,13 @@
 # Tachycardia
 ### Supra Ventricular Tachycardia
-![RSI checklist](./guidelines.md/tachycardia_svt.png)
-![RSI checklist](./guidelines.md/tachycardia_svt_algo.png)
+![RSI checklist](./tachycardia_svt.png)
+![RSI checklist](./tachycardia_svt_algo.png)
 
 ### Ventricular Tachycardia
-![RSI checklist](./guidelines.md/tachycardia_vt_algo.png)
+![RSI checklist](./tachycardia_vt_algo.png)
 
 ### Torsades de Points
-![RSI checklist](./guidelines.md/tachycardia_tdp.png)Treatment magnesium sulphate
+![RSI checklist](./tachycardia_tdp.png)Treatment magnesium sulphate
 Dose 25–50 mg/kg (max 2 g) rapid IV infusion over several minutes
 
 --- 

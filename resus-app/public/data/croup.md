@@ -43,6 +43,3 @@ Note: Observe all children for 4 hours post adrenaline neb (risk of rebound symp
 
 --- 
 eResus v2.0 based on [Croup V4.0](http://workspaces/sites/Teams/ChildrensEmergencyDepartment/guidelines/BCH_guidelines/1/index.html#13063)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTc0MTY5N119
--->

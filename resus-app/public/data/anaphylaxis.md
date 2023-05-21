@@ -1,5 +1,5 @@
 # Anaphylaxis
-![Anaphylaxis](./guidelines.md/anaphylaxis.png =40%x40% "this is the title")
+![Anaphylaxis](./anaphylaxis.png)
 
 
 ### Intramuscular Adrenaline (in-hospital)

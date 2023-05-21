@@ -1,5 +1,5 @@
 # Pain
-![Pain ladder](./guidelines.md/pain.png)
+![Pain ladder](./pain.png)
 ## Paracetamol
 Oral and PR Paracetamol
 < 3 month
@@ -56,6 +56,3 @@ Age > 1 year 100 – 400 micrograms/kg 4 hourly
 
 --- 
 eResus v2.0 based on [Acute Pain v14](http://workspaces/sites/Teams/ChildrensEmergencyDepartment/guidelines/BCH_guidelines/1/index.html#5813)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzYzNzMxMTZdfQ==
--->

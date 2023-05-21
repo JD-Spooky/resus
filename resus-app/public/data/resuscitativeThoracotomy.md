@@ -1,5 +1,5 @@
 # Resuscitative Thoracotomy
-![RSI checklist](./guidelines.md/resuscitativeThoracotomy.png)
+![RSI checklist](./resuscitativeThoracotomy.png)
 ## Aims of Resuscitative Thoracotomy
 Last resort in patients with serve traumatic injuries in or distal to the thorax
 
@@ -13,15 +13,15 @@ Open cardiac massage
 Decision to perform resuscitative thoracotomy is made by trauma team leader
 
 ## Resuscitative Thoracotomy Procedure
-![RSI checklist](./guidelines.md/resuscitativeThoracotomy_kit.png)
+![RSI checklist](./resuscitativeThoracotomy_kit.png)
 Thoracotomy kit in paeds resus
 Position patient supine
 Rapid skin preparation
-![RSI checklist](./guidelines.md/resuscitativeThoracotomy_cut.png)
+![RSI checklist](./resuscitativeThoracotomy_cut.png)
 Using scalpel and blunt forceps make bilateral 4cm thoracostomies in usual anatomical locations (5th ICS mid-axillary line)
 If tension pneumothorax is decompressed and cardiac output return stop procedure
 Insert 2 fingers into a thoracostomy to hold the lung out of the way while cutting through all layers of the pleura and chest wall towards the sternum using heavy scissors. Perform this on both sides leaving only a sternal bridge between the 2 thoracostomies
-![RSI checklist](./guidelines.md/resuscitativeThoracotomy_open.png)
+![RSI checklist](./resuscitativeThoracotomy_open.png)
 Cut through the sternum using heavy scissors
 Open the clam shell using 1 or 2 self retaining retractors/ rib spreads (if no available using assistants). Ensure wide enough to allow access to thoracic structures
 Lift the pericardium with forceps and make a large midline longitudinal incision using scissors (avoid phrenic nerve)
@@ -54,7 +54,3 @@ Theatre for definitive management
 --- 
 eResus v2.0 based on [Resuscitative thoracotomy v1.1](http://workspaces/sites/Teams/ChildrensEmergencyDepartment/guidelines/BCH_guidelines/1/index.html#19455)
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1NDgxMTk5XX0=
--->

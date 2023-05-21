@@ -20,6 +20,3 @@ If ineffective consider adrenaline
 --- 
 eResus v2.0 based on 
 [https://www.alsg.org/en/files/Ch10_Abnormal_rate_or_rhythm2006.pdf](https://www.alsg.org/en/files/Ch10_Abnormal_rate_or_rhythm2006.pdf)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE2MTcwMDMzXX0=
--->

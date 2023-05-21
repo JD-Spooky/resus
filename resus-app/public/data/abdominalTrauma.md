@@ -42,9 +42,9 @@ If further boluses required give blood . Activate major hemorrhage protocol
 - Give Tranexamic acid
 - Consider NGT (unless contraindicated – basal skull #)
 
-[Major Haemorrhage](#majorHaemorrhage.md)
+[Major Haemorrhage](#./majorHaemorrhage.md)
 
-[Pain protocol](#pain.md)
+[Pain protocol](#./pain.md)
 
 ### Investigations
 - Bloods – FBC, U&Es, LFTs, amylase, cross-match, BM

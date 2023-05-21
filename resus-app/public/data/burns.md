@@ -1,6 +1,6 @@
 
 Burns
-![Burns algorithm](./guidelines.md/burns_algo.png)
+![Burns algorithm](./burns_algo.png)
 
 ## Indications for major trauma call
 Burns TBSA ≥20% (consider if ≥10%)
@@ -37,7 +37,7 @@ Intravenous
 Morphine 100 – 200 micrograms/kg (seek advice if < 1year)
 
 ## BSA and Depth
-![Burns algorithm](./guidelines.md/burns2.png)
+![Burns algorithm](./burns2.png)
 
 Assessment of depth is difficult and not necessary for initial management (refer to full guidelines for depth assessment)
 
@@ -77,6 +77,3 @@ Consider catheterization
 --- 
 eResus v2.0 based on  [Fluids management in burns V2.0](http://workspaces/sites/Teams/ChildrensEmergencyDepartment/guidelines/BCH_guidelines/1/index.html#17056)
 also see: [Acute Pain v14](http://workspaces/sites/Teams/ChildrensEmergencyDepartment/guidelines/BCH_guidelines/1/index.html#5813)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NDE1Mjc0XX0=
--->
