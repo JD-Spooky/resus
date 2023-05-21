@@ -26,36 +26,36 @@ const Data = [
             },
             {
                 name: 'Asthma',
-                content: 'asthma.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Bradycardia',
-                content: 'bradycardia.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Broncholitis',
-                content: 'bronchiolitis'
+                content: 'inProgress.md'
             },
             {
                 name: 'Burns',
-                content: 'burns.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Compartment syndrome',
-                content: 'compartmentSyndrome.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Croup',
-                content: 'croup.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Difficult airway algorithm',
-                content: 'inProgress.md'
+                content: 'difficultAirway.md'
             },
 
             {
                 name: 'DKA',
-                content: 'dka'
+                content: 'inProgress.md'
             },
 
             {
@@ -65,42 +65,42 @@ const Data = [
 
             {
                 name: 'Extra-corpal CPR (ECPR)',
-                content: 'ecpr_in_ed.md'
+                content: 'inProgress.md'
             },
 
             {
                 name: 'Fallot\'s spells (Hypercyanotic)',
-                content: 'hypercyanoticSpells.md'
+                content: 'inProgress.md'
             },
 
             {
                 name: 'Fractured femoral shaft',
-                content: 'femoralFracture.md'
+                content: 'inProgress.md'
             },
 
             {
                 name: 'Head injury',
-                content: 'headInjury.md'
+                content: 'inProgress.md'
             },
 
             {
                 name: 'Major haemorrhage',
-                content: 'majorHaemorrhage.md'
+                content: 'inProgress.md'
             },
 
             {
                 name: 'Newborn Life Support (NLS)',
-                content: 'nls.md'
+                content: 'inProgress.md'
             },
 
             {
                 name: 'Open fracture',
-                content: 'openLongBoneFracture.md'
+                content: 'inProgress.md'
             },
 
             {
                 name: 'Pain management',
-                content: 'pain.md'
+                content: 'inProgress.md'
             },
 
             {
@@ -110,7 +110,7 @@ const Data = [
 
             {
                 name: 'Resus calculations',
-                content: 'resuscitativeThoracotomy.md'
+                content: 'inProgress.md'
             },
 
             {
@@ -135,27 +135,27 @@ const Data = [
 
             {
                 name: 'Status epilepticus',
-                content: 'statusEpliepticus.md'
+                content: 'inProgress.md'
             },
 
             {
                 name: 'Tachycardia',
-                content: 'tachycardia.md'
+                content: 'inProgress.md'
             },
 
             {
                 name: 'Toxic shock in burns',
-                content: 'TTS_burns.md'
+                content: 'inProgress.md'
             },
 
             {
                 name: 'TOXBASE',
-                content: 'drugDoses.md'
+                content: 'inProgress.md'
             },
 
             {
                 name: 'WHO procedure checklist',
-                content: 'whoProceedureChecklist.md'
+                content: 'inProgress.md'
             }
 
 
@@ -171,7 +171,7 @@ const Data = [
             },
             {
                 name: 'Anaphylaxis',
-                content: 'anaphylaxis.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Difficult airway guidelines',
@@ -179,11 +179,11 @@ const Data = [
             },
             {
                 name: 'Extra-corpal CPR (ECPR)',
-                content: 'ecpr_in_ed.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Neo-natal Life Support (NLS)',
-                content: 'nls.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'PICU drug sheet',
@@ -199,11 +199,11 @@ const Data = [
             },
             {
                 name: 'RSI checklist',
-                content: 'rsiChecklist.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'WHO procedure checklist',
-                content: 'whoProceedureChecklist.md'
+                content: 'inProgress.md'
             }
         ]
     },
@@ -221,20 +221,20 @@ const Data = [
             },
             {
                 name: 'Asthma',
-                content: 'asthma.md'
+                content: 'inProgress.md'
             }
             ,
             {
                 name: 'Bradycardia',
-                content: 'bradycardia.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Broncholitis',
-                content: 'bronchiolitis.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Croup',
-                content: 'croup.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'DKA',
@@ -242,19 +242,19 @@ const Data = [
             },
             {
                 name: 'Hypercyanotic spells (Fallot’s)',
-                content: 'hypercyanoticSpells.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Septic shock',
-                content: 'septicShock.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Status epilepticus',
-                content: 'statusEpilepticus.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Tachycardia',
-                content: 'tachycardia.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'TOXBASE',
@@ -269,35 +269,35 @@ const Data = [
         categories: [
             {
                 name: 'Burns',
-                content: 'burns.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Compartment syndrome',
-                content: 'compartmentSyndrome.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Fractured femoral shaft',
-                content: 'femoralFracture.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Head injury',
-                content: 'headInjury.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Major haemorrhage protocol',
-                content: 'majorHaemorrhage.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Open fracture',
-                content: 'openLongBoneFracture.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Pain management',
-                content: 'pain.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Pelvic fractures',
-                content: 'pelvicFracture.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'Resuscitative thoracotomy in trauma',
@@ -309,11 +309,11 @@ const Data = [
             },
             {
                 name: 'RSI checklist',
-                content: 'rsiChecklist.md'
+                content: 'inProgress.md'
             },
             {
                 name: 'WHO procedure checklist',
-                content: 'whoProceedureChecklist.md'
+                content: 'inProgress.md'
             }
         ]
     },
