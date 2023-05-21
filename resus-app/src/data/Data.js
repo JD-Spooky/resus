@@ -1,4 +1,3 @@
-import testMD from './content/test.md';
 import rescuscitationGuideImg from '../img/resus.png';
 import allGuidelinesImg from '../img/all_guidelines.png';
 import medicalImg from '../img/medical.png';
@@ -362,7 +361,7 @@ const Data = [
     {
         name: 'Distraction',
         image: distractionImg,
-        url: 'https://www.youtube.com/watch?v=i0sBOAN8t5Y&ab_channel=TheScottishPeppapig'
+        url: 'https://www.youtube.com/watch?v=IQLDBRbgENw&ab_channel=PeppaPig-OfficialChannel'
     },
 ];
 
