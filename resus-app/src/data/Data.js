@@ -17,7 +17,7 @@ const Data = [
                 content: 'anaphylaxis.md'
             },
             {
-                name: 'Antiobiotic guidelines',
+                name: 'Antibiotic guidelines',
                 content: 'inProgress.md'
             },
             {
@@ -216,7 +216,7 @@ const Data = [
                 content: 'anaphylaxis.md'
             },
             {
-                name: 'Antiobiotic guidelines',
+                name: 'Antibiotic guidelines',
                 content: 'inProgress.md'
             },
             {
