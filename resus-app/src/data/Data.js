@@ -229,7 +229,7 @@ const Data = [
                 content: 'inProgress.md'
             },
             {
-                name: 'Broncholitis',
+                name: 'Bronchiolitis',
                 content: 'inProgress.md'
             },
             {
